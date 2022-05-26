@@ -1,5 +1,4 @@
 ## Rise B15
-## Rise For Roblox
 
 ### Features
 
