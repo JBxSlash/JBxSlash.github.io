@@ -6,7 +6,8 @@ Rise has many features, and soon will support multiple games, currently, it has 
 
 ### Known Bypassed Anticheats
 Bedwars --By Easy.gg (Semi) 
-Crystak Ac --100$ AC (Slighly Modded, but hen full)
+
+Crystal Ac --100$ AC (Slighly Modded, but hen full)
 
 ### Non-Pop Known Bypassed Anticheats
 
