@@ -5,9 +5,9 @@
 Rise has many features, and soon will support multiple games, currently, it has support mainly for bypassing ServerSide anticheats, including bedwars, ect.
 
 ### Known Bypassed Anticheats
-Bedwars --By Easy.gg (Semi) 
 
-Crystal Ac --100$ AC (Slighly Modded, but hen full)
+Bedwars --By Easy.gg (Semi) 
+Crystal Ac --100$ AC (Slighly Modded, but then full)
 
 ### Non-Pop Known Bypassed Anticheats
 
