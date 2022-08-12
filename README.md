@@ -5,15 +5,15 @@
 ## Cool Features
 Some of the *cool* features are 
 
-'''
+```
 auto link scanner, anti grabbify, user verification, polls, giveaways, auto afk tag
-'''
+```
 
 ## Basic Features
 
-'''
+```
 Kick, ban, purge, random, coinflip, meme, urmom, dadjoke, etc.
-'''
+```
 
 ### How do you get the bot?
 
