@@ -1,28 +1,17 @@
-## Rise B15
+## Devours Bot
 
 ### Features
 
-Rise has many features, and soon will support multiple games, currently, it has support mainly for bypassing ServerSide anticheats, including bedwars, ect.
+Some of the cool features are auto link scanner, anti grabbify, user verification, polls, giveaways, auto afk tag
+Some of the more basic ones are kick, ban, purge, random, coinflip, meme, urmom, dadjoke
 
-### Known Bypassed Anticheats
+### How do you get the bot?
 
-Bedwars --By Easy.gg (Semi) 
-Crystal Ac --100$ AC (Slighly Modded, but then full)
+The current link as of right now doesnt exist
 
-### Non-Pop Known Bypassed Anticheats
+### How can i trust the bot!
 
-Infinity AntiCheat --By Async Studio's (Semi)
-AntiCheat V0.7.3.1 (SemiFunctional) --By aidan9382
-Axon Anticheat --By engraveds
+Make a custom server, then run it, you will see nothing sus goes on
 
-### Unbypassed Anticheats
-
-Vibe AC --By Jasonatph https://www.roblox.com/games/7586760082/Vibe-Anti-Cheat
-
-```markdown
-Use Rise With ls "loadstring(game:HttpGet('https://raw.githubusercontent.com/JBxSlash/Roblox_RISE_Beta/main/RISE_KeySys.lua'))()"
-SRC: https://github.com/JBxSlash/Roblox_RISE_Beta
-
-ORG: Alan; Site; https://riseclient.com/
-RBX: JxSlash
-```
+Owner: @2Depth#7974
+Bot programmed in python
