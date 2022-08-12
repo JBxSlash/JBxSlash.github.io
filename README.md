@@ -2,8 +2,9 @@
 
 ### Features
 
-#Some of the cool features are auto link scanner, anti grabbify, user verification, polls, giveaways, auto afk tag
-#Some of the more basic ones are kick, ban, purge, random, coinflip, meme, urmom, dadjoke
+Some of the cool features are auto link scanner, anti grabbify, user verification, polls, giveaways, auto afk tag
+
+Some of the more basic ones are kick, ban, purge, random, coinflip, meme, urmom, dadjoke
 
 ### How do you get the bot?
 
@@ -11,7 +12,11 @@
 
 ### How can i trust the bot!
 
-#Make a custom server, then run it, you will see nothing sus goes on
+Make a custom server, then run it, you will see nothing sus goes on
 
-#Owner: @2Depth#7974
-#Bot programmed in python
+
+### Other data:
+## Owner:
+Discord: @2Depth#7974
+## Bot Language:
+Bot programmed in python
